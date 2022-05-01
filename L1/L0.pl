@@ -1,4 +1,4 @@
-%Amanda Pintado Lineros u137702 NIA195285
+%Amanda Pintado Lineros
 
 %Compilado mediante SWI-Prolog online: https://swish.swi-prolog.org/
 
